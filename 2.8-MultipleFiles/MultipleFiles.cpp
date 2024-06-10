@@ -1,6 +1,6 @@
-#include <iostream>
+#include "Add.h"
 
-int add(int a, int b);
+#include <iostream>
 
 int main()
 {
